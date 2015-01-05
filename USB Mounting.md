@@ -15,5 +15,5 @@ sudo mount -t vfat (block device ie /dev/sda1) /mnt/usb
 
 Check to see if your drive is mounted
 =====================================
-mount (check for a /dev/something entry)
+mount (check for a /dev/something entry) OR lsblk (check for mountpoint on /dev/something/)
 
