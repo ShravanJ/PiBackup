@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 #Replace 'shravan' with your username
 #Modify so that your desired directories are backed up. Use this as a reference.
