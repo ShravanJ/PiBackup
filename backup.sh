@@ -3,6 +3,7 @@
 #Replace 'shravan' with your username
 #Modify so that your desired directories are backed up. Use this as a reference.
 #In this case I backup my /www/ webpages dir and my home directory and copy to a mounted USB drive.
+#Since this uses sudo make sure you create a crontab under root for everything to work properly. 
 
 cd /home/
 
