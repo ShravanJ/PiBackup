@@ -11,5 +11,6 @@ First of all mount your external storage device. Then modify the script to backu
 It works brilliantly!
 ========
 ![alt text] (https://shravanj.com/files/img/screen2.png)
+
 Example of a successful backup run
 
