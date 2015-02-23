@@ -1,7 +1,7 @@
 PiBackup
 ========
 
-Backup your Raspberry Pi using a shell script and crontab. 
+Backup your Raspberry Pi (or really any Unix or Linux machine) using a shell script and crontab. 
 
 Usage
 ========
