@@ -2,13 +2,8 @@
 
 #Replace 'shravan' with your username
 #Modify so that your desired directories are backed up. Use this as a reference.
-
 #In this case I backup my /www/ webpages dir and my home directory and copy to a mounted USB drive (mounted at point /mnt/usb in this case).
 #You can also modify the status information based on what files/directories you are backing up
-
-#In this case I backup my /www/ webpages dir and my home directory and copy to a mounted USB drive.
-#Since this uses sudo make sure you create a crontab under root for everything to work properly. 
-
 
 echo "PiBackup v1.0.1"
 echo "Starting backup..."
